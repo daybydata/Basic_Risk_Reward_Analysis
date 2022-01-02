@@ -1,5 +1,5 @@
 # Basic_Risk_Reward_Analysis
-This notebook demonstrates the use of the pandas and numpy libraries to perform some basic analysis on risk and reward of stock funds. The analysis considers four portfolio funds with respect to each other and the S&P 500. It constructs and compares smoothed time series of classic financial metrics such as returns, Sharpe Ratios and market Betas. Finally, it makes a recommendation on the best fund offer for portfolio diversification and capital preservation.
+This notebook demonstrates the use of the pandas and numpy libraries to perform some basic analysis on risk and reward of stock funds. The analysis considers four portfolio funds with respect to each other and the S&P 500. It constructs and compares smoothed time series of classic financial metrics such as returns, Sharpe Ratios and market Betas. Finally, it makes a recommendation on the best fund to offer for portfolio diversification and capital preservation.
 
 ## Technologies
 
